@@ -1,5 +1,5 @@
 # CancerForTheCommonGood
-Repository containing code and documents for the Cancer For the Common Good Project for SLC Biology. 
+This repository containing code and documents for the Cancer For the Common Good Project for SLC Biology. 
 
 These documents were initially posted on 1/12/17 and the link was shared on Google Classroom. 
 
