@@ -5,8 +5,8 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt 
 from matplotlib import animation
 import random
-from random import shuffle 
 from random import randint
+from random import shuffle 
 shuffle = np.random.shuffle
 random_choice = random.choice 
 import datetime 
